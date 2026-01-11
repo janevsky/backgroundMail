@@ -4,7 +4,7 @@
  *
  * Data access object for announcement email queue.
  *
- * Copyright (c) 2024 Your Name
+ * Copyright (c) 2026 Janevsky
  * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
  */
 
