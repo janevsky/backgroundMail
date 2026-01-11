@@ -1,0 +1,23 @@
+msgid "plugins.generic.backgroundMail.patchPKPAnnouncementHandler"
+msgstr "Patch PKPAnnouncementHandler.inc.php"
+
+msgid "plugins.generic.backgroundMail.displayName"
+msgstr "Background Mail"
+
+msgid "plugins.generic.backgroundMail.description"
+msgstr "Send announcement emails asynchronously using scheduled tasks."
+
+msgid "plugins.generic.backgroundMail.scheduledTask.name"
+msgstr "Background Announcement Email Sender"
+
+msgid "plugins.generic.backgroundMail.notifyStart"
+msgstr "Announcement email sending started"
+
+msgid "plugins.generic.backgroundMail.notifyEnd"
+msgstr "Announcement email sending finished"
+
+msgid "plugins.generic.backgroundMail.notifyStartBody"
+msgstr "Sending of announcement '{title}' to users has started."
+
+msgid "plugins.generic.backgroundMail.notifyEndBody"
+msgstr "Sending of announcement '{title}' finished. Emails sent: {sentCount}. Skipped (opt-out): {skippedCount}."

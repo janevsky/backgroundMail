@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<version>
+  <application>backgroundMail</application>
+  <type>plugins.generic</type>
+  <release>1.0.0.0</release>
+  <date>2026-01-08</date>
+  <copyright>Copyright (c) 2026 janevsky https://github.com/janevsky</copyright>
+  <license>GNU GPL v3</license>
+  <notes>Initial release: Asynchronous announcement email delivery via scheduled task.</notes>
+</version>

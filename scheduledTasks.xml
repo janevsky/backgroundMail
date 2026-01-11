@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE scheduled_tasks SYSTEM "../../../lib/pkp/dtd/scheduledTasks.dtd">
+<scheduled_tasks>
+  <task class="plugins.generic.backgroundMail.BackgroundMailScheduledTask" path="plugins/generic/backgroundMail/BackgroundMailScheduledTask.inc.php">
+    <descr>Send queued announcement emails asynchronously.</descr>
+    <frequency minute="1"/>
+  </task>
+</scheduled_tasks>
