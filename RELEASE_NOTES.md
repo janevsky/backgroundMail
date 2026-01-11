@@ -32,5 +32,3 @@ Rollout checklist
 4. Monitor mailserver quotas and bounce/spam reports; enable SPF/DKIM/DMARC.
 
 For full release entry on GitHub: the repo already has tag `v1.0.0`. If you want me to create the GitHub Release on your behalf I can do that using the GitHub API if you provide a Personal Access Token with `repo` scope, or you can publish the release in the GitHub web UI.
-
-— backgroundMail bot
